@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IanJether
-- 👀 I’m interested in Software development
 - 🌱 I’m currently learning java
 - 📫 How to reach me - jetherian69@gmail.com
 
