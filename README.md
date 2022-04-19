@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanJether
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning web Development
 - 📫 How to reach me - jetherian69@gmail.com
 
 <!---
